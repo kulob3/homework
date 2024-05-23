@@ -7,3 +7,4 @@ def title_():
     x = input()
     return x.title()
 
+
