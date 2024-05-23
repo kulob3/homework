@@ -4,7 +4,7 @@ def upp_():
     return s.upper()
 
 def title_():
-    '''disckription'''
+    '''disckription1'''
     x = input()
     return x.title()
 
